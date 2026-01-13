@@ -1,6 +1,7 @@
-baseURL: "https://shivanikr95-bit.github.io/indieground/"
-languageCode: "en-uk"
+baseURL: "https://shivanikr95-bit.github.io/Indieground/"
+languageCode: "en-us"
 title: "Indieground"
-paginate: 10
+theme: "PaperMod"
+
 params:
-  description: "Independent music & culture"
+  description: "Independent music, culture, and the stories shaping the scene."
