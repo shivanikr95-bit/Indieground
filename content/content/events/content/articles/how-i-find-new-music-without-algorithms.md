@@ -1,0 +1,19 @@
+---
+title: "How I Find New Music Without Algorithms"
+date: 2026-01-14
+---
+A lot of trend forecasters are calling 2026 the year of analog. Not because technology is going away—if anything, it’s everywhere—but because people are quietly craving things that feel slower, more human, more intentional. With AI-generated content flooding our feeds and recommendations becoming eerily accurate, many of us are turning to offline hobbies again: film cameras, vinyl records, journaling, long walks without podcasts. And somewhere in the middle of this shift sits music—deeply digital, yet emotionally analog.
+
+Today, most music discovery happens without us even trying. Spotify playlists know what we want before we do. YouTube Music auto-queues tracks that sound suspiciously similar to the last one. Instagram Reels uses music as its primary hook, pushing the same 15-second snippets into millions of ears overnight. Algorithms have made music discovery fast, efficient, and frictionless. They’ve also made it predictable. We find new songs constantly, but rarely do we search for them anymore.
+
+And here’s the thing about algorithms: they are useful, but they’re not fun. They optimise for familiarity, not curiosity. They show you what you’re most likely to like, not what might surprise you, challenge you, or slowly grow on you. Over time, everything starts sounding… adjacent. Comfortable. Safe.
+
+Over time, this comfort turns into repetition—and repetition quietly becomes monotony. You realise you’re cycling through the same five songs you discovered sometime last month. They play in your car, then again through your headphones, then once more on autoplay while you cook dinner. Not because they’re still blowing your mind, but because they’re familiar and effortless. The algorithm keeps feeding them back to you, and you’re just lazy enough not to break the loop. Exploring new music starts to feel like work, so you don’t. And before you know it, discovery—once the most exciting part of listening—slips into the background.
+
+So I started finding music without them.
+
+For me, discovering new music has become a deliberately messy, deeply human process. I listen to full albums that artists casually mention in interviews, the kind they reference in passing without trying to promote. I open random playlists made by strangers with barely a dozen followers and no obvious aesthetic—just a strange mix of genres, moods, and eras that somehow makes sense to them. I notice what’s playing in cafés, in auto-rickshaws, in someone else’s car at a traffic signal, and shamelessly Google the lyrics later because the melody won’t leave my head. I ask people—friends, acquaintances, sometimes even cab drivers—what they’ve been listening to lately, not because I expect a perfect recommendation, but because every answer comes with a small piece of their world.
+
+I also let music find me slowly. I sit with songs even when they don’t click immediately, letting them exist in the background before deciding how I feel about them. I read about scenes instead of charts, about where the music comes from rather than how well it’s performing. I follow independent labels and producers who seem to care more about sound than scale. Sometimes I fall in love with a track not because it’s flawless or instantly catchy, but because it holds a mood, a moment, a quiet emotional truth I wasn’t actively searching for—one that reveals itself only when I give it time.
+
+Finding music without algorithms feels like wandering instead of being guided. It takes longer. It’s inefficient. But it’s deeply satisfying. In a world where everything is being predicted for us, choosing to discover music this way feels like a small act of rebellion—and a reminder that some of the best things are meant to be found, not served.
